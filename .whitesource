@@ -20,7 +20,7 @@
   },
    "hostRules": [
     {
-      "matchHost": "https://mndsupport.jfrog.io/artifactory/katerina-mvn-sample-libs-snapshot",
+      "matchHost": "link from jfrog file that was uploaded before",
       "hostType": "maven",
       "username": "katznelson@gmail.com",
       "encrypted": {
